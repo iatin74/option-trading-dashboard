@@ -1,0 +1,3 @@
+TRADIER_API_KEY = "4nQBreuudSUdOdu2g0XzCeBwWRD7"
+TELEGRAM_BOT_TOKEN = ""  # Optional: Telegram Bot Token
+TELEGRAM_CHAT_ID = ""    # Optional: Telegram Chat ID
