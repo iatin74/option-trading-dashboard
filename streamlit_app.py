@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from utils.tradier_api import get_options_chain
+from utils.finnhub_api import get_options_chain
 from utils.gex_calculator import calculate_gex, create_gex_heatmap_data
 from utils.dix_dex_calculator import calculate_dix_dex
 from utils.greeks_visualizer import plot_greeks_by_strike, plot_gex_heatmap
