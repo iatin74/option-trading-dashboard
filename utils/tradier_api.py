@@ -1,7 +1,7 @@
 import requests
 from config import TRADIER_API_KEY
 
-BASE_URL = "https://sandbox.tradier.com/v1/markets "
+BASE_URL = "https://api.tradier.com/v1/markets "
 
 def get_options_chain(symbol):
     headers = {
